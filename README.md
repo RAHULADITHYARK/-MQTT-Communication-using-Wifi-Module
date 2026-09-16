@@ -206,8 +206,7 @@ void loop() {
 
 
 # Observation
-
-<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/1ddbb283-024a-477f-9714-c798b34072e9" />
+<img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/200983d4-6014-4145-85cb-c33e2d512a15" />
 
 
 # Result
